@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     background-color: black;
     padding: 0px 225px;
+    margin-top: 0;
 }
 
 .header-nav {
@@ -85,6 +86,7 @@ li {
     flex-direction: column;
     justify-content: center;
     padding: 70px 250px;
+    background-color: white;
 }
 
 .info-header {
@@ -118,6 +120,7 @@ li {
 }
 
 .sign-up {
+    background-color: white;
     padding: 70px 250px;
 }
 
