@@ -91,7 +91,7 @@ li {
 }
 
 .quote {
-
+    background-color: #E5E7EB;
 }
 
 .quote-text {
@@ -103,11 +103,11 @@ li {
 }
 
 .sign-up {
-
+    
 }
 
 .modal {
-
+    background-color: #3882F6;
 }
 
 .modal-text {
@@ -115,5 +115,8 @@ li {
 }
 
 .footer {
-    
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
