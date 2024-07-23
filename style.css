@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
+    background-color: black;
+    padding: 0px 225px;
 }
 
 .header-nav {
@@ -10,7 +12,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 300px;
+    padding: 8px 250px;
 }
 
 .logo-text {
@@ -37,7 +39,7 @@ li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 70px 300px;
+    padding: 70px 250px;
 }
 
 .introduction {
@@ -82,7 +84,7 @@ li {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 70px 300px;
+    padding: 70px 250px;
 }
 
 .info-header {
@@ -99,7 +101,7 @@ li {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding: 70px 300px;
+    padding: 70px 250px;
 }
 
 .quote-text {
@@ -116,7 +118,7 @@ li {
 }
 
 .sign-up {
-    
+    padding: 70px 250px;
 }
 
 .modal {
