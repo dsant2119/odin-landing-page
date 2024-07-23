@@ -79,15 +79,20 @@ li {
 }
 
 .information {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 70px 300px;
 }
 
 .info-header {
-
+    align-self: center;
+    font-size: 36px;
+    font-weight: bolder;
 }
 
 .info-cards {
-
+    display: flex;
 }
 
 .quote {
