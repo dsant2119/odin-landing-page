@@ -119,12 +119,12 @@ li {
     font-weight: bolder;
 }
 
-.sign-up {
+.call-to-action {
     background-color: white;
     padding: 70px 250px;
 }
 
-.modal {
+.cta-modal {
     display: flex;
     background-color: #3882F6;
     justify-content: space-around;
