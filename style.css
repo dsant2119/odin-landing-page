@@ -125,11 +125,40 @@ li {
 }
 
 .modal {
+    display: flex;
     background-color: #3882F6;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
 }
 
 .modal-text {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    color: white;
+}
 
+.modal-text > p {
+    padding: 0;
+    margin: 0;
+}
+
+.p-font {
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.modal button {
+    background-color: #3882F6;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer {
