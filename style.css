@@ -97,8 +97,9 @@ li {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 70px 250px;
+    padding: 90px 250px;
     background-color: white;
+    gap: 40px;
 }
 
 .info-header {
@@ -109,13 +110,36 @@ li {
 
 .info-cards {
     display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.card-img {
+    border-color: #3882F6;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card > p {
+    padding: 0;
+    margin: 0;
+    width: 150px;
+    text-align: center;
 }
 
 .quote {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding: 70px 250px;
+    padding: 120px 250px;
 }
 
 .quote-text {
@@ -133,7 +157,7 @@ li {
 
 .call-to-action {
     background-color: white;
-    padding: 70px 250px;
+    padding: 90px 250px;
 }
 
 .cta-modal {
