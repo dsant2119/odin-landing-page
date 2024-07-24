@@ -1,16 +1,23 @@
 body {
+    min-height: 100vh;
     font-family: sans-serif;
+    margin: 0;
+    background-color: black;
+}
+
+.container {
     display: flex;
     flex-direction: column;
-    background-color: black;
     padding: 0px 220px;
-    margin-top: 0;
+    margin-top: 0px;
+    flex: 1 0 auto;
 }
 
 .header-nav {
     background-color: #1F2937;
     color: white;
     display: flex;
+    flex-shrink: 0;
     justify-content: space-between;
     align-items: center;
     padding: 0px 220px;
@@ -38,6 +45,8 @@ li {
     background-color: #1F2937;
     color: #F9FAF8;
     display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: flex-start;
     padding: 70px 220px;
@@ -45,6 +54,7 @@ li {
 }
 
 .introduction {
+    flex-shrink: 0;
     height: 300px;
     width: 500px;
     display: flex;
