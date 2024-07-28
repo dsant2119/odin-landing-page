@@ -9,3 +9,7 @@
 *   HTML
 *   CSS
 *   Git
+
+## Credits:
+*   Statistics icon: Created by YANDI RS from Noun Project
+*   Bracket icon: Created by Akhmad Sobahus Surur from Noun Project
