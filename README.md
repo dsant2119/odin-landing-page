@@ -11,5 +11,5 @@
 *   Git
 
 ## Credits:
-*   Statistics icon: Created by YANDI RS from Noun Project
-*   Bracket icon: Created by Akhmad Sobahus Surur from Noun Project
+*   Statistics icon: <a href="https://www.flaticon.com/free-icons/growth" title="growth icons">Growth icons created by Freepik - Flaticon</a>
+*   Bracket icon: <a href="https://www.flaticon.com/free-icons/bracket" title="bracket icons">Bracket icons created by Royyan Wijaya - Flaticon</a>

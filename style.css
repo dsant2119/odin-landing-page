@@ -113,7 +113,7 @@ li {
     gap: 40px;
 }
 
-.card-img {
+.card-pic {
     border-color: #1F2937;
     border-style: solid;
     border-width: 4px;
@@ -122,7 +122,13 @@ li {
     height: 150px;
     text-align: center;
     font-weight: 800;
+    padding: 10px;
 }
+
+.icons {
+    object-fit: cover;
+}
+
 .card {
     display: flex;
     flex-direction: column;
