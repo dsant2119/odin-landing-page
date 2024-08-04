@@ -212,6 +212,14 @@ li {
     font-size: large;
 }
 
+.cta-window button:hover {
+    background-color: #3069d1; /* Darker shade of blue on hover*/
+}
+
+.cta-window button:active {
+    background-color: #2055a3; /* Even darker shade of blue on activation */
+}
+
 .footer {
     display: flex;
     justify-content: center;
