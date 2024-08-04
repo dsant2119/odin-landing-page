@@ -173,7 +173,7 @@ li {
     padding: 90px 250px;
 }
 
-.cta-modal {
+.cta-window {
     display: flex;
     background-color: #3882F6;
     justify-content: space-around;
@@ -182,7 +182,7 @@ li {
     min-width: 973px;
 }
 
-.modal-text {
+.window-text {
     display: flex;
     flex-direction: column;
     padding: 50px;
